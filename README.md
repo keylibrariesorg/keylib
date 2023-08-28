@@ -18,7 +18,4 @@ cd frontend
 ```css
 npm start
 ```
-```css
-npm run dev
-```
 # oneforpayload

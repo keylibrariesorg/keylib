@@ -103,7 +103,7 @@ const DashboardHero = () => {
           </div>
           <h5 className="pt-2 pl-[36px] text-[22px] font-[500]">${availableBalance}</h5>
           <Link to="/dashboard-withdraw-money">
-            <h5 className="pt-4 pl-[2] text-[#077f9c]">Withdraw Money</h5>
+            <h5 className="pt-4 pl-[2] text-[#077f9c]">Check</h5>
           </Link>
         </div>
 
@@ -137,7 +137,7 @@ const DashboardHero = () => {
           </div>
           <h5 className="pt-2 pl-[36px] text-[22px] font-[500]">{products && products.length}</h5>
           <Link to="/dashboard-products">
-            <h5 className="pt-4 pl-2 text-[#077f9c]">View Products</h5>
+            <h5 className="pt-4 pl-2 text-[#077f9c]">View Books</h5>
           </Link>
         </div>
       </div>

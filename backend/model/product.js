@@ -9,6 +9,10 @@ const productSchema = new mongoose.Schema({
     type: String,
     required: [true, "Please enter the author of the book!"],
   },
+  publisher: {
+    type: String,
+    required: [true, "Please enter the publisher of the book!"]
+  },
   description: {
     type: String,
     required: [true, "Please enter your Book description!"],

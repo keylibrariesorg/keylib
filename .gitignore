@@ -1,4 +1,5 @@
 # dependencies
+backend/config
 frontend/node_modules
 backend/node_modules
 socket/node_modules
